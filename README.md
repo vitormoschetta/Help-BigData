@@ -12,5 +12,9 @@ Por isso o nome “Lago de Dados”. Para abrigar informações no Data Lake, po
 ## Data Warehouse (DW)
 Ao contrário do aglomerado de informações de formatos e tamanhos diferentes, o Data Warehouse é um espaço dedicado a receber dados tratados, padronizados e higienizados. A proposta do DW é oferecer visões organizadas que permitam aos profissionais tomar decisões mais embasadas sobre determinada situação. Para abrigar qualquer informação em um DW, é fundamental que elas tenham passado pelo processo de tratamento, diferentemente do Data Lake.
 
+<br>
+<br>
+
+### Referências:
 <https://www.predicta.net/blog/post/2019/03/20/data-lake-x-data-warehouse-entenda-a-diferenca/>
 
