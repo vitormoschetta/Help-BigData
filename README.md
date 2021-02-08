@@ -14,6 +14,13 @@ Por isso o nome “Lago de Dados”. Para abrigar informações no Data Lake, po
 Ao contrário do aglomerado de informações de formatos e tamanhos diferentes, o Data Warehouse é um espaço dedicado a receber dados tratados, padronizados e higienizados. A proposta do DW é oferecer visões organizadas que permitam aos profissionais tomar decisões mais embasadas sobre determinada situação. Para abrigar qualquer informação em um DW, é fundamental que elas tenham passado pelo processo de tratamento, diferentemente do Data Lake.
 <br>
 
+## Cluster
+Cluster é um grupo de servidores/máquinas que funcionam como um sistema único. Isso permite alguns benefícios como:
+1. Alta disponibilidade
+2. Balanceamento de carga
+3. Processamento paralelo
+4. Escalabilidade horizontal
+
 ## Hadoop 
 
 https://www.youtube.com/watch?v=qX5edsUWadE
