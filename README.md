@@ -22,6 +22,7 @@ Cluster é um grupo de servidores/máquinas que funcionam como um sistema único
 4. Escalabilidade horizontal
 
 ## Hadoop 
+O Hadoop é um sistema distribuído de arquivos. Ele lida com arquivos em um cluster.
 
 https://www.youtube.com/watch?v=qX5edsUWadE
 
