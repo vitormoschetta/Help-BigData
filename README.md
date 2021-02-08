@@ -33,8 +33,14 @@ Sistema Distribuído de Arquivos.
 Framework/mecanismo distribuído de processamento de dados que transforma a grande massa de dados em dados menores e estruturados.
 
 
-
-
+## Apache Spark
+Framework que implementa a funcionalidade **Map Reduce** de uma forma mais eficiente (maior desempenho) que o framework de Map Reduce do Hadoop.
+Ele pode utilizar como Base de Dados o próprio Hadoop HDFS, ou ainda os NoSQL Cassandra, HBase e MongoDB.
+As seguinte linguagens de programação podem ser utilizadas com Apache Spark:
+1. Python
+2. R
+3. Scala
+4. Java
 
 
 <br>
