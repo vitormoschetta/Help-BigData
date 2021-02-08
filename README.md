@@ -35,11 +35,12 @@ Framework/mecanismo distribuído de processamento de dados que transforma a gran
 
 
 
-https://www.youtube.com/watch?v=qX5edsUWadE
+
 
 <br>
 <br>
 
 ### Referências:
 <https://www.predicta.net/blog/post/2019/03/20/data-lake-x-data-warehouse-entenda-a-diferenca/>
+<https://www.youtube.com/watch?v=qX5edsUWadE>
 
