@@ -2,7 +2,6 @@
 
 ## **ETL** (Extract/extração, Transform/transformação e Load/carregamento)
 As três etapas do processo de gestão de dados.
-<br>
 
 ## Data Lake
 O Data Lake é o repositório perfeito para quem precisa abrigar qualquer tipo de dados em qualquer escala. Dashboards, dados em tempo real, analytics, planilhas, informações de machine learning… enfim. Não há restrições para a ferramenta.
