@@ -48,5 +48,6 @@ As seguinte linguagens de programação podem ser utilizadas com Apache Spark:
 
 ### Referências:
 <https://www.predicta.net/blog/post/2019/03/20/data-lake-x-data-warehouse-entenda-a-diferenca/>
+https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos&unit=57031d4b47d7dd27ab8b4568Unit
 <https://www.youtube.com/watch?v=qX5edsUWadE>
 
