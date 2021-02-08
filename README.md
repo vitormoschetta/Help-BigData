@@ -26,11 +26,11 @@ Cluster é um grupo de servidores/máquinas que funcionam como um sistema único
 O Hadoop é um sistema distribuído de arquivos. Ele lida com arquivos em um cluster.
 Ele é composto por dois componentes principais:
 
-**1. HDFS**
+**1. HDFS**  
 Sistema Distribuído de Arquivos.
 
-**2. Map Reduce**
-Framework/mecanismo distribuído de processamento de dados.
+**2. Map Reduce**  
+Framework/mecanismo distribuído de processamento de dados que transforma a grande massa de dados em dados menores e estruturados.
 
 
 
